@@ -1,0 +1,28 @@
+name: ${project.name}
+version: ${project.version}
+author: TheJeterLP
+main: de.TheJeterLP.Bukkit.VirusCraftTools.Main
+
+depend: [Vault]
+softdepend: [Multiverse-Core,MakeYourOwnCommands,WorldEdit,WorldGuard]
+
+commands:
+  chest:
+    escription: Help for <command>
+    usage: /<command> <help>
+  clearchest:
+    description: Help for <command>
+    usage: /<command> <help>
+  load:
+    description: Help for <command>
+    usage: /<command> <help>
+  announcer:
+    usage: /<command> <help>
+    description: Help for <command>
+  party:
+    usage: /<command> <help>
+    description: Help for <command>
+      
+    
+     
+

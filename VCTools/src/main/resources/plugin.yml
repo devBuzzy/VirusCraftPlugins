@@ -1,0 +1,24 @@
+name: ${project.name}
+version: ${project.version}
+author: TheJeterLP
+main: de.TheJeterLP.Bukkit.VirusCraftTools.Main
+
+softdepends: [Vault,ProtocolLib]
+
+commands:
+  tools:
+    description: Help for <command>
+    usage: /<command> <help>
+  cw:
+    description: Help for <command>
+    usage: /<command> <help>
+  announcer:
+    usage: /<command> <help>
+    description: Help for <command>
+  uuid:
+    usage: /<command> <help>
+    description: Help for <command>
+      
+    
+     
+

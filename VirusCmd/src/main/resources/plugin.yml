@@ -1,0 +1,101 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: TheJeterLP
+
+main: de.thejeterlp.bukkit.viruscmd.VirusCmd
+
+commands:
+    home:
+        usage: /<command> help
+        aliases: [h]
+    sethome:
+        usage: /<command> help
+        aliases: [sh]
+    edithome:
+        usage: /<command> help
+        aliases: [eh]
+    delhome:
+        usage: /<command> help
+        aliases: [dh]
+    fly:
+        usage: /<command> help
+        aliases: [f]
+    gamemode:
+        usage: /<command> help
+        aliases: [gm]
+    vanish:
+        usage: /<command> help
+        aliases: [v]
+    nick:
+        usage: /<command> help
+    god:
+        usage: /<command> help
+        aliases: [g]
+    cw:
+        usage: /<command> help
+    time:
+        usage: /<command> help
+    day:
+        usage: /<command> help
+    night:
+        usage: /<command> help
+    msg:
+        usage: /<command> help
+    spy:
+        usage: /<command> help
+    heal:
+        usage: /<command> help
+    spawn:
+        usage: /<command> help
+    setspawn:
+        usage: /<command> help
+    delspawn:
+        usage: /<command> help
+    top:
+        usage: /<command> help
+        aliases: [up]
+    down:
+        usage: /<command> help
+    killall:
+        usage: /<command> help
+    tploc:
+        usage: /<command> help
+        aliases: [tppos]
+    invsee:
+        usage: /<command> help
+    enderchest:
+        usage: /<command> help
+    skull:
+        usage: /<command> help
+        aliases: [head]
+    slap:
+        usage: /<command> help
+        aliases: [bitch,bitchslap]
+    spawnmob:
+        usage: /<command> help
+        aliases: [mob]
+    lightning:
+        usage: /<command> help
+    location:
+        usage: /<command> help
+        aliases: [loc,pos,position]
+    uuid:
+        usage: /<command> help
+    mute:
+        usage: /<command> help
+    unmute:
+        usage: /<command> help
+    ip:
+        usage: /<command> help
+    whois:
+        usage: /<command> help
+    list:
+        usage: /<command> help
+        aliases: [who]
+    sun:
+        usage: /<command> help
+    listspawns:
+        usage: /<command> help
+    sudo:
+        usage: /<command> help
+        aliases: [au,asuser]

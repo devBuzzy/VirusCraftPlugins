@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: TheJeterLP
+
+main: de.thejeterlp.shoplogin.Main
+
+softdepend: [Vault,PermissionsEx]

@@ -1,0 +1,7 @@
+author: TheJeterLP
+name: ${project.name}
+version: ${project.version}
+url: http://whitelist.twitchapps.com/
+depends: [GroupManager]
+
+main: de.theJeterLP.Bukkit.TwitchWhitelist.Main

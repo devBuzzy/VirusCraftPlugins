@@ -1,0 +1,16 @@
+name: ${project.name}
+author: TheJeterLP
+version: 1.0.0
+description: VirusSpleef Game System
+
+main: de.TheJeterLP.Bukkit.VirusSpleef.Bukkit.VirusSpleef
+
+commands:
+   spleef:
+       usage: |
+        /<command> <finish> <id>
+        /<command> <delete> <id>
+        /<command> <create> <id> <maxplayers>
+        /<command> <setspawn> <id> <spawn|lobby>
+        /<command> <setsign> <id>
+        /<command> <restart> <id>

@@ -1,0 +1,22 @@
+name: ${project.name}
+version: ${project.version}
+author: TheJeterLP
+
+main: de.TheJeterLP.Bukkit.StarShop.Starshop
+
+commands:
+  stars:
+    usage: /<command> <help>
+    description: Help for <command>
+  setstars:
+    usage: /<command> <help>
+    description: Help for <command>
+  addstars:
+    usage: /<command> <help>
+    description: Help for <command>
+  removestars:
+    usage: /<command> <help>
+    description: Help for <command>
+  buyrank:
+    usage: /<command> <help>
+    description: Help for <command>

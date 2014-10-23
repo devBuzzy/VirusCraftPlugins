@@ -1,0 +1,10 @@
+name: Nametags
+main: de.TheJeterLP.Bukkit.Nametags.Main
+version: ${project.version}
+author: TheJeterLP
+
+softdepend: [VCTools,VirusCraftTools]
+
+commands:
+    nametags:
+        usage: /<command> <help>

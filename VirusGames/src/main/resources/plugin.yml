@@ -1,0 +1,16 @@
+name: ${project.name}
+author: TheJeterLP
+version: ${project.version}
+description: VirusGames Game System
+
+main: de.TheJeterLP.Bukkit.VirusGames.Bukkit.VirusGames
+
+commands:
+   vg:
+      description: to work with the plugin
+      usage: |
+        /<command> <finish> <id>
+        /<command> <delete> <id>
+        /<command> <create> <id> <maxplayers> <name>
+        /<command> <setspawn> <id> <player|virus|lobby>
+        /<command> <setsign> <id>

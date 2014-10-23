@@ -1,0 +1,19 @@
+# NO IDS!
+# CHECK http://jd.bukkit.org/dev/apidocs/org/bukkit/Material.html#enum_constant_detail FOR THE ITEM NAMES.
+
+# how many items should be max generated?
+maxamount: 3
+
+# How many items can you get of this list?
+selectedItems: 1
+
+# place item-NAMES in here
+# NO ARMOR
+items:
+- WOOD_SWORD
+- BOW
+- STONE_SWORD
+- LEATHER_CHESTPLATE
+- STICK
+- DIAMOND
+- STONE_AXE

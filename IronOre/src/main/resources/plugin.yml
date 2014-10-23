@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: TheJeterLP
+
+main: de.thejeterlp.bukkit.ironore.Main
